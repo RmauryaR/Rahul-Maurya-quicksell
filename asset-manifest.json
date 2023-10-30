@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rahul-Maurya-quicksell/static/css/main.d0c0facc.css",
+    "main.js": "/Rahul-Maurya-quicksell/static/js/main.062a53a7.js",
+    "index.html": "/Rahul-Maurya-quicksell/index.html",
+    "main.d0c0facc.css.map": "/Rahul-Maurya-quicksell/static/css/main.d0c0facc.css.map",
+    "main.062a53a7.js.map": "/Rahul-Maurya-quicksell/static/js/main.062a53a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c0facc.css",
+    "static/js/main.062a53a7.js"
+  ]
+}
